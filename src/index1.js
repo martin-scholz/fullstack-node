@@ -8,7 +8,7 @@ app.listen(3002, () => {
 });
 //konstante PORT die den Wert 3002 hat
 const PORT = 3002;
-
+//test comment
 app.get('/', (req, res) => {
    console.log("TEsting"); 
     // console.log(req)
